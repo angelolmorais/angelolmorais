@@ -1,4 +1,4 @@
-### Ângelo Morais
+### Ângelo Morais - 🏗️
 
 <!--
 **angelolmorais/angelolmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 -  Technology Manager
   <br>
 <div style="display: inline_block"><br>
+   <img align="center" alt="Angelo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+   <img align="center" alt="Angelo-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg
+">
+   <img align="center" alt="Angelo-PHPStorm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg
+">
   <img align="center" alt="Angelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Angelo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Angelo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
