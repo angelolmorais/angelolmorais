@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  Full Stack PHP Developer 
--  Technology Manager
+-  Desenvolvedor Full Stack 
+-  Gerente de Tecnologia
   <br>
 <div style="display: inline_block"><br>
 <img align="center" alt="Angelo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
