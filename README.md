@@ -1,4 +1,4 @@
-![image](https://github.com/angelolmorais/angelolmorais/assets/192238/5749e119-79f5-43a0-bcb3-b4cb5ea44784)### Ângelo Morais
+### Ângelo Morais
 
 <!--
 **angelolmorais/angelolmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
