@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-•  Full Stack PHP Developer 
-•  Technology Manager
+-  Full Stack PHP Developer 
+-  Technology Manager
