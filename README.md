@@ -1,4 +1,4 @@
-### Ângelo Morais - 🏗️
+### Ângelo Morais 
 
 <!--
 **angelolmorais/angelolmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
