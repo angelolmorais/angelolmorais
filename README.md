@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <br>
 <div style="display: inline_block"><br>
 <img align="center" alt="Angelo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="Angelo-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+<img align="center" alt="Angelo-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 <img align="center" alt="Angelo-Codeigniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
 <img align="center" alt="Angelo-rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
 <img align="center" alt="Angelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
