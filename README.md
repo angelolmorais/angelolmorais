@@ -20,12 +20,13 @@ Here are some ideas to get you started:
   <br>
 <div style="display: inline_block"><br>
 <img align="center" alt="Angelo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="center" alt="Angelo-PHPStorm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg">
-<img align="center" alt="Angelo-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+<img align="center" alt="Angelo-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 <img align="center" alt="Angelo-Codeigniter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg">
-<img align="center" alt="Angelo-rails height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg">
+<img align="center" alt="Angelo-rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
 <img align="center" alt="Angelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Angelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
+<img align="center" alt="Angelo-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Angelo-raect" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Angelo-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line-wordmark.svg">
  
 <img align="center" alt="Angelo-Ps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="Angelo-My" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
